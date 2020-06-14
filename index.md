@@ -1,8 +1,7 @@
 ## Welcome to Rupsanas Pages
 
 Hi there, I am a first year Eye surgeon at North Bengal Medical College and Hospital.
-I am passionated for good food and i have my instagram channe at https://www.instagram.com/scalpel_n_spoon/
-/*(https://github.com/sachinkgp/sachinkgp.github.io/edit/master/index.md)*/ 
+I am passionated for good food and i have my instagram channe at *[GitHub]https://www.instagram.com/scalpel_n_spoon/*
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
